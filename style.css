@@ -1,0 +1,41 @@
+body {
+    font-family: "Petrona", serif;
+    font-optical-sizing: auto;
+    text-decoration: none;
+}
+header {
+    background: #fcfcfc;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+}
+nav {
+    background: #cdb9d8;
+    color: #fcf9f9;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #fcfcfc;
+    text-decoration: none;
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    columns: white;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+    text-decoration: none;
+}
+.navegador{
+    color: rgb(84, 209, 12);
+    text-decoration: none;
+}
+/*AYUDA COMO CAMBIO EL COLOR*/ 
